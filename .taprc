@@ -1,0 +1,9 @@
+branches: 100
+browser: false
+coverage-report:
+  - html
+functions: 100
+lines: 100
+statements: 100
+test-env:
+  - NODE_ENV=testing
