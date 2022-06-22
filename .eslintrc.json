@@ -1,11 +1,4 @@
 {
   "extends": "@affiliatedtech",
-  "root": true,
-  "rules": {
-    "import/no-extraneous-dependencies": [
-      "error", {
-        "devDependencies": ["**/tests.js"]
-      }
-    ]
-  }
+  "root": true
 }
