@@ -1,6 +1,6 @@
 {
   "name": "@affiliatedtech/fp-utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "FP Utilities",
   "main": "index.js",
   "scripts": {
